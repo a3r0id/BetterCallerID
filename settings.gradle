@@ -1,0 +1,2 @@
+rootProject.name = "Better CallerID"
+include ':app'

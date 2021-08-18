@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Better CallerID</string>
+    <string name="desc">
+        Better CallerID is an opensource Android app that uses Numverify to resolve important information about any number that is calling you including validity, line-type, location and carrier. To get started, get a free API key via https://numverify.com/signup?plan=17. Once you have made an API key, simply set it below to begin vetting each call you receive.
+        An open source app by @A3r0.
+    </string>
+</resources>
