@@ -12,3 +12,5 @@ Upon receiving a call, you will get a notification of containing the following:
 - Line-type
 
 BetterCallerID is essentially to fight spam calls and was directly influenced by my own experience with them.
+
+I will add a screenshot of the incoming call notification once I get a spam call lol.  
